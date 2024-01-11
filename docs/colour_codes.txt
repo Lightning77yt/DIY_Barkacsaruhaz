@@ -1,0 +1,21 @@
+Égkék: #40A0FF
+
+Acélkék: #9ABFCF
+
+Tavasz zöld: #BFE95A
+
+Paradicsom piros: #E11C08
+
+Lazacszín: #FF9C7A
+
+Barna színek:
+
+    Fácánbarna: #9D644B
+
+    Kávébarna: #783E1B
+
+    Őzbarna: #946E4B
+
+    Medvebarna: #69513A
+
+Aranysárga: #FBE996
