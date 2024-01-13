@@ -9,3 +9,9 @@ body{
 h1{
     color: white;
 }
+header{
+    background-color: #D9D9D9 !important;
+}
+footer{
+    background-color: #D9D9D9 !important;
+}
